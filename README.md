@@ -11,17 +11,17 @@ As a Computer Vision Engineer, I develop AI-powered solutions to transform tradi
 
 ## 💻 Tech Stack
 
-### Backend
+### Machine Learning / Data Science
 
-![backend](https://go-skill-icons.vercel.app/api/icons?i=django,fastapi,flask)
+![ml/ds](https://go-skill-icons.vercel.app/api/icons?i=pytorch,tensorflow,opencv,sklearn,pandas,numpy,scipy,streamlit)
+
+### Programming Languages
+
+![programming](https://go-skill-icons.vercel.app/api/icons?i=py,cpp)
 
 ### DevOps
 
 ![devops](https://go-skill-icons.vercel.app/api/icons?i=docker,elasticsearch,terraform)
-
-### Machine Learning / Data Science
-
-![ml/ds](https://go-skill-icons.vercel.app/api/icons?i=pytorch,tensorflow,opencv,sklearn,pandas,numpy,scipy,streamlit)
 
 ### Version Control
 
@@ -31,13 +31,13 @@ As a Computer Vision Engineer, I develop AI-powered solutions to transform tradi
 
 ![db](https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,supabase)
 
-### Programming Languages
-
-![programming](https://go-skill-icons.vercel.app/api/icons?i=py,cpp)
-
 ### Cloud
 
 ![cloud](https://go-skill-icons.vercel.app/api/icons?i=aws&titles=true)
+
+### Backend
+
+![backend](https://go-skill-icons.vercel.app/api/icons?i=django,fastapi,flask)
 
 ### Tools
 
