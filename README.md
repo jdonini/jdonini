@@ -5,41 +5,41 @@ As a Computer Vision Engineer, I develop AI-powered solutions to transform tradi
 
 - 🔭 I’m currently working on [Automizei](https://www.automizei.com/)
 
-## 🌐 Socials
+## 🌐 Contact
 
-[![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://linkedin.com/in/juliano-donini)
+[![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://linkedin.com/in/juliano-donini)&nbsp;&nbsp;[![Gmail](https://go-skill-icons.vercel.app/api/icons?i=gmail)](mailto:julianodonini89@gmail.com)
 
 ## 💻 Tech Stack
 
-### Machine Learning / Data Science
+#### Machine Learning / Data Science
 
 ![ml/ds](https://go-skill-icons.vercel.app/api/icons?i=pytorch,tensorflow,opencv,sklearn,pandas,numpy,scipy,streamlit)
 
-### Programming Languages
+#### Programming Languages
 
 ![programming](https://go-skill-icons.vercel.app/api/icons?i=py,cpp)
 
-### DevOps
+#### DevOps
 
 ![devops](https://go-skill-icons.vercel.app/api/icons?i=docker,elasticsearch,terraform)
 
-### Version Control
+#### Version Control
 
 ![version-control](https://go-skill-icons.vercel.app/api/icons?i=git,github,gitlab,githubactions)
 
-### Databases
+#### Databases
 
 ![db](https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,supabase)
 
-### Cloud
+#### Cloud
 
 ![cloud](https://go-skill-icons.vercel.app/api/icons?i=aws&titles=true)
 
-### Backend
+#### Backend
 
 ![backend](https://go-skill-icons.vercel.app/api/icons?i=django,fastapi,flask)
 
-### Tools
+#### Tools
 
 ![tools](https://go-skill-icons.vercel.app/api/icons?i=arduino,raspberrypi,postman,bash,arch,linux)
 
@@ -56,20 +56,10 @@ As a Computer Vision Engineer, I develop AI-powered solutions to transform tradi
 ## GitHub Stats ⚡
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jdonini&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false" height="150" alt="stats graph">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jdonini&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false" height="150" alt="languages graph"/>
-</div>
 
-<div align="center">
+  [![Jdonini's GitHub stats](https://github-readme-stats-tau-ten-72.vercel.app/api?username=jdonini&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false)](https://github.com/jdonini/github-readme-stats)&nbsp;  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jdonini&theme=gruvbox)](https://git.io/streak-stats)
 
-![current-streak](https://github-readme-streak-stats.herokuapp.com/?user=jdonini&theme=gruvbox&hide_border=false)
-
-</div>
-
-## Top Contributed Repo 🏅
-
-<div align="center">
-    <img src=https://github-contributor-stats.vercel.app/api?username=jdonini&limit=5&theme=gruvbox&combine_all_yearly_contributions=true) />
+  [![Top Langs](https://github-readme-stats-tau-ten-72.vercel.app/api/top-langs/?username=jdonini&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gruvbox&hide_border=false)](https://github.com/jdonini/github-readme-stats)
 </div>
 
 ---
