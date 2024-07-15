@@ -8,34 +8,32 @@ As a Computer Vision Engineer, I develop AI-powered solutions to transform tradi
 ## 🌐 Socials
 
 [![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://linkedin.com/in/juliano-donini)
-&nbsp;
-[![gmail](https://go-skill-icons.vercel.app/api/icons?i=gmail)](julianodonini89@gmail.com)
 
 ## 💻 Tech Stack
 
 ### Backend
 
-![backend](https://go-skill-icons.vercel.app/api/icons?i=django,fastapi,flask&titles=true)
+![backend](https://go-skill-icons.vercel.app/api/icons?i=django,fastapi,flask)
 
 ### DevOps
 
-![devops](https://go-skill-icons.vercel.app/api/icons?i=docker,elasticsearch,terraform&titles=true)
+![devops](https://go-skill-icons.vercel.app/api/icons?i=docker,elasticsearch,terraform)
 
 ### Machine Learning / Data Science
 
-![ml/ds](https://go-skill-icons.vercel.app/api/icons?i=pytorch,tensorflow,opencv,sklearn,pandas,numpy,scipy,streamlit&titles=true)
+![ml/ds](https://go-skill-icons.vercel.app/api/icons?i=pytorch,tensorflow,opencv,sklearn,pandas,numpy,scipy,streamlit)
 
 ### Version Control
 
-![version-control](https://go-skill-icons.vercel.app/api/icons?i=git,github,gitlab,githubactions&titles=true)
+![version-control](https://go-skill-icons.vercel.app/api/icons?i=git,github,gitlab,githubactions)
 
 ### Databases
 
-![db](https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,supabase&titles=true)
+![db](https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,supabase)
 
 ### Programming Languages
 
-![programming](https://go-skill-icons.vercel.app/api/icons?i=py,cpp&titles=true)
+![programming](https://go-skill-icons.vercel.app/api/icons?i=py,cpp)
 
 ### Cloud
 
@@ -43,7 +41,7 @@ As a Computer Vision Engineer, I develop AI-powered solutions to transform tradi
 
 ### Tools
 
-![tools](https://go-skill-icons.vercel.app/api/icons?i=arduino,raspberrypi,postman,bash,arch,linux&titles=true)
+![tools](https://go-skill-icons.vercel.app/api/icons?i=arduino,raspberrypi,postman,bash,arch,linux)
 
 <!-- 
 - mflow
