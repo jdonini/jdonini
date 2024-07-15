@@ -55,11 +55,15 @@ As a Computer Vision Engineer, I develop AI-powered solutions to transform tradi
 
 ## GitHub Stats ⚡
 
+  <div align="center">
+    <img src="https://github-readme-stats-tau-ten-72.vercel.app/api?username=jdonini&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false" height="150" alt="stats graph">
+    <img src="https://github-readme-stats-tau-ten-72.vercel.app/api/top-langs/?username=jdonini&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gruvbox&hide_border=false" height="150" alt="languages graph"/>
+  </div>
+
 <div align="center">
 
-  [![Jdonini's GitHub stats](https://github-readme-stats-tau-ten-72.vercel.app/api?username=jdonini&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false)](https://github.com/jdonini/github-readme-stats)&nbsp;  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jdonini&theme=gruvbox)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jdonini&theme=gruvbox)](https://git.io/streak-stats)
 
-  [![Top Langs](https://github-readme-stats-tau-ten-72.vercel.app/api/top-langs/?username=jdonini&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gruvbox&hide_border=false)](https://github.com/jdonini/github-readme-stats)
 </div>
 
 ---
