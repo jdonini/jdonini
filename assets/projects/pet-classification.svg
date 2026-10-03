@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250" role="img" aria-labelledby="title desc">
+  <title id="title">Cats and dogs classification workflow</title>
+  <desc id="desc">Oxford-IIIT Pet images are preprocessed and used to train CNNs for cat versus dog and breed classification. This is a workflow diagram, not prediction output.</desc>
+  <rect width="900" height="250" rx="16" fill="#282828"/>
+  <text x="32" y="44" fill="#ebdbb2" font-family="sans-serif" font-size="23" font-weight="700">Cats and dogs classification</text>
+  <text x="32" y="72" fill="#a89984" font-family="sans-serif" font-size="15">Project workflow · Oxford-IIIT Pet Dataset</text>
+  <g fill="#3c3836" stroke="#665c54">
+    <rect x="32" y="106" width="184" height="99" rx="10"/>
+    <rect x="249" y="106" width="184" height="99" rx="10"/>
+    <rect x="466" y="106" width="184" height="99" rx="10"/>
+    <rect x="683" y="106" width="184" height="99" rx="10"/>
+  </g>
+  <g fill="#ebdbb2" font-family="sans-serif" font-size="17" text-anchor="middle">
+    <text x="124" y="143">Pet images</text>
+    <text x="341" y="143">Preprocessing</text>
+    <text x="558" y="143">CNN training</text>
+    <text x="775" y="143">Classification</text>
+  </g>
+  <g fill="#a89984" font-family="sans-serif" font-size="13" text-anchor="middle">
+    <text x="124" y="174">Oxford-IIIT dataset</text>
+    <text x="341" y="174">Prepare training inputs</text>
+    <text x="558" y="174">Train and inspect runs</text>
+    <text x="775" y="174">Cats, dogs and breeds</text>
+  </g>
+  <g fill="#fabd2f">
+    <path d="M225 151h13v-5l9 9-9 9v-5h-13z"/>
+    <path d="M442 151h13v-5l9 9-9 9v-5h-13z"/>
+    <path d="M659 151h13v-5l9 9-9 9v-5h-13z"/>
+  </g>
+  <text x="32" y="231" fill="#a89984" font-family="sans-serif" font-size="12">Workflow illustration; no benchmark or prediction results are shown.</text>
+</svg>
