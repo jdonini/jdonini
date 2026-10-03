@@ -1,32 +1,67 @@
-# Juliano Donini
+<h1 align="center">Hi 👋, I'm Juliano Donini</h1>
+<h3 align="center">Computer Vision Engineer</h3>
 
-Computer Vision Engineer · Edge AI · MLOps · MSc in Computer Science
+As a Computer Vision Engineer, I develop AI-powered solutions to transform traditional retail into autonomous stores. With expertise in image processing and machine learning, I create models that identify products, analyze demand, and optimize inventory. My skills include computer vision algorithms with PyTorch and YOLO, advanced image analysis, and building pipelines with DVC, Metaflow, and SageMaker.
 
-I build computer vision systems from data preparation and model training to inference on cloud and edge devices. At [Automizei](https://www.automizei.com/), I work on product recognition and self-service retail automation. My previous work at FarmGO applied computer vision to agriculture and satellite imagery.
+- 🔭 I’m currently working on [Automizei](https://www.automizei.com/)
 
-[LinkedIn](https://www.linkedin.com/in/juliano-donini/) · [Email](mailto:julianodonini89@gmail.com)
+## 🌐 Contact
 
-## Professional work
+[![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://linkedin.com/in/juliano-donini)&nbsp;&nbsp;[![Gmail](https://go-skill-icons.vercel.app/api/icons?i=gmail)](mailto:julianodonini89@gmail.com)
 
-- Product detection with YOLO and PyTorch, integrated with retail checkout workflows and edge devices.
-- ML pipelines with CVAT annotation, DVC data versioning, experiment tracking in Comet ML and MLflow, and inference services with BentoML and FastAPI.
-- Facial recognition APIs with InsightFace, FastAPI, and PostgreSQL for access control.
-- Event-driven integrations with RabbitMQ and MQTT, with production monitoring through OpenTelemetry and Grafana.
+## 💻 Tech Stack
 
-## Selected public work
+#### Machine Learning / Data Science
 
-- [Irrigation pivot detection demo](https://datlo-ijqp.vercel.app/): YOLO11 detection on Sentinel-2 imagery, matched against Brazil's ANA reference data. The interactive map shows a sample across three states. Built with Python, GeoPandas, Next.js, and Leaflet; source code is private.
-- [Cats and dogs classification](https://github.com/jdonini/cats-and-dogs-classification): CNN-based image classification on the Oxford-IIIT Pet Dataset, progressing from cat/dog classification to breed classification.
-- [Stacking audio tagging](https://github.com/jdonini/stacking-audio-tagging): Master's research implementation exploring stacking with convolutional neural networks and autoencoders for audio tag classification.
+![ml/ds](https://go-skill-icons.vercel.app/api/icons?i=pytorch,tensorflow,opencv,sklearn,pandas,numpy,scipy,streamlit)
 
-## Technical skills
+#### Programming Languages
 
-| Area | Technologies |
-| --- | --- |
-| Computer vision and machine learning | PyTorch, YOLO, OpenCV, TensorFlow, scikit-learn, InsightFace |
-| Data analysis and geospatial | pandas, NumPy, GeoPandas, rasterio |
-| Languages | Python, C++ |
-| MLOps and cloud | CVAT, DVC, MLflow, Comet ML, BentoML, Amazon SageMaker, AWS |
-| Backend and messaging | FastAPI, Django, PostgreSQL, RabbitMQ, MQTT |
-| Edge inference | NVIDIA Jetson, Raspberry Pi, ONNX, TensorRT |
-| Infrastructure and observability | Docker, GitHub Actions, Linux, OpenTelemetry, Grafana |
+![programming](https://go-skill-icons.vercel.app/api/icons?i=py,cpp)
+
+#### DevOps
+
+![devops](https://go-skill-icons.vercel.app/api/icons?i=docker,elasticsearch,terraform)
+
+#### Version Control
+
+![version-control](https://go-skill-icons.vercel.app/api/icons?i=git,github,gitlab,githubactions)
+
+#### Databases
+
+![db](https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,supabase)
+
+#### Cloud
+
+![cloud](https://go-skill-icons.vercel.app/api/icons?i=aws&titles=true)
+
+#### Backend
+
+![backend](https://go-skill-icons.vercel.app/api/icons?i=django,fastapi,flask)
+
+#### Tools
+
+![tools](https://go-skill-icons.vercel.app/api/icons?i=arduino,raspberrypi,postman,bash,arch,linux)
+
+<!--
+- mflow
+- plotly (https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg)
+- poetry (https://github.com/devicons/devicon/blob/master/icons/poetry/poetry-plain.svg)
+- dvc (https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_dvc.svg)
+- kedro ()
+- Metaflow
+- Kibana (https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg)
+-->
+
+## GitHub Stats ⚡
+
+  <div align="center">
+    <img src="https://github-readme-stats-tau-ten-72.vercel.app/api?username=jdonini&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false" height="150" alt="stats graph">
+    <img src="https://github-readme-stats-tau-ten-72.vercel.app/api/top-langs/?username=jdonini&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gruvbox&hide_border=false" height="150" alt="languages graph"/>
+  </div>
+
+<div align="center">
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jdonini&theme=gruvbox)](https://git.io/streak-stats)
+
+</div>
